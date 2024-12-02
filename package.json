@@ -1,0 +1,19 @@
+{
+  "name": "acsass-project",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Nivethitha A B <nivethitha.balu05@gmail.com> (https://nive-balu.netlify.app/)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "joi": "^17.13.3",
+    "mongoose": "^8.8.3"
+  }
+}
